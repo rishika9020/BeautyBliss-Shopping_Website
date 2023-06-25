@@ -57,8 +57,11 @@ Clone the Repository:
 + `Username: admin` `Password: admin123`
 
 ## Screenshots 
+
+### CLIENT'S SIDE PORTAL
 ![pic1](https://github.com/khushi0706/BeautyBliss-ShoppingWebsite/assets/96778933/200d1457-2a5f-4e39-9409-67300766b5e6)
 ![pic2](https://github.com/khushi0706/BeautyBliss-ShoppingWebsite/assets/96778933/dbac33c5-e8ca-402c-a91f-082221150472)
+### ADMIN'S SIDE PORTAL
 ![pic3_adminPg](https://github.com/khushi0706/BeautyBliss-ShoppingWebsite/assets/96778933/d818954f-7d99-409e-9ce1-c13ff535436b)
 ![pic4](https://github.com/khushi0706/BeautyBliss-ShoppingWebsite/assets/96778933/eae5d03e-a393-41d6-a86d-f9de4c6843f9)
 
