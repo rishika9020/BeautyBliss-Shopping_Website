@@ -44,14 +44,17 @@ Clone the Repository:
 + Launch XAMPP and start the Apache and MySQL services.
 ### Import the Database:
 
-+ Open phpMyAdmin in your web browser by visiting `http://localhost/phpmyadmin`.
++ Open phpMyAdmin in your web browser by visiting http://localhost/phpmyadmin.
 + Create a new database named "cbpos_db".
 + Import the database dump file provided in the repository (cbpos_db.sql) into the newly created database.
 ### Run the Application:
 
 + Place the repository files in the appropriate directory of your local web server (in XAMPP's htdocs folder).
-+ Open your web browser and visit http://localhost/cbpos to access the application.
++ Open your web browser and visit `http://localhost/cbpos` to access the application.
 ### Admin Access:
 
 + To access the admin panel, use the following credentials:
 + `Username: admin` `Password: admin123`
+
+## Screenshots 
+![Alt Text](cbpos_screenshots/pic1.png)
