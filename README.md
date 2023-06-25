@@ -39,6 +39,9 @@ To run the BeautyBliss project locally, follow these steps:
 Clone the Repository:
 
 + Clone this repository to your local machine using Git or download the ZIP file and extract it.
+```
+git clone https://github.com/khushi0706/BeautyBliss-ShoppingWebsite
+```
 ### Start XAMPP:
 
 + Launch XAMPP and start the Apache and MySQL services.
