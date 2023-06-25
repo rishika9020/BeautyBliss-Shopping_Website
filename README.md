@@ -57,4 +57,4 @@ Clone the Repository:
 + `Username: admin` `Password: admin123`
 
 ## Screenshots 
-![Alt Text](cbpos_screenshots/pic1.png)
+![Alt Text](cbpos_screenshots/pic1.jpg)
