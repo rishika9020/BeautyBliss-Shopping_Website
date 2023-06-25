@@ -66,4 +66,4 @@ Clone the Repository:
 ![pic4](https://github.com/khushi0706/BeautyBliss-ShoppingWebsite/assets/96778933/eae5d03e-a393-41d6-a86d-f9de4c6843f9)
 
 
-
+** Thank You for Visiting this repository, feel free to issue a pull request!! **
